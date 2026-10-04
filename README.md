@@ -28,8 +28,8 @@ but to re-upload what I've made of it.
 Namely, to fork it and carry on with it separately.
 
 ___
-	As I was writing this README, I realized that there's even a repository by Fatih, of 6 years ago.
-	see: [https://github.com/fattihkoca/jqueryte](https://github.com/fattihkoca/jqueryte)
+As I was writing this README, I realized that there's even a repository by Fatih, of 6 years ago.
+see: [https://github.com/fattihkoca/jqueryte](https://github.com/fattihkoca/jqueryte)
 ___ 
 
 Since the 2022 repo has version 1.4, whereas the 14 years old repo had v1.3.2, I think 
