@@ -6,9 +6,10 @@ This is a simple project, based on Fatih Koca's [JQery-TE](https://github.com/fa
 
 ![TEE-2026 logo](TEE-2026.avif)
 
+# my objectives
 I want to use a WYSIWYG HTML5 / "rich text" editor.
 
-THe ones available, starting with tinymce are not good.  
+The ones available, starting with tinymce are not good.  
 Commercial means not good.  We live in the 21st century's 3rd deceade! :)   
 
 I found the **JQuery-TE** application / plugin, and jqueryte.com.
@@ -46,7 +47,8 @@ ___
 I'm not sure whether what I'm making of this piece of working software will be good for anyone else, 
 but I'll share it.
 
-___
+## the concept
+
 
 My concept is VERY SIMPLE. I want to edit text. Articles, namely.
 
