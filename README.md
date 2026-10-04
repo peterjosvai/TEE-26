@@ -3,6 +3,9 @@
 
 This is a simple project, based on Fatih Koca's [JQery-TE](https://github.com/fattihkoca/jQuery-TE). 
 
+
+![TEE-2026 logo](TEE-2026.avif)
+
 I want to use a WYSIWYG HTML5 / "rich text" editor.
 
 THe ones available, starting with tinymce are not good.  
