@@ -1,61 +1,80 @@
-﻿What is jQuery TE?
+﻿TEE-2026
 ==================
 
-jQuery TE is a jQuery plugin. It is a lightweight and very useful HTML editor. And it works with WYSIWYG model.
+This is a simple project, based on Fatih Koca's [JQery-TE](https://github.com/fattihkoca/jQuery-TE). 
 
-Most importantly, it can be integrated into your system in 1 minute. And you can modify it as you want in terms of interface. Even you can change the css classes.
+I want to use a WYSIWYG HTML5 / "rich text" editor.
 
-Everything is as simple as the following:  
-**$(“textarea”).jqte();**
+THe ones available, starting with tinymce are not good.  
+Commercial means not good.  We live in the 21st century's 3rd deceade! :)   
 
-Cross Browser
--------------
-jQuery TE works with same performance on the most preferred browsers. And its source of the output is same as 90% on these browsers.
+I found the **JQuery-TE** application / plugin, and jqueryte.com.
+But the website is apparently hacked (the about and the demo menus, for example).
 
-Also, it compresses to source of the output automatically. jQuery TE's system runs more practical and more rapidly to other some editors.
+So, I started to look for something else.
+I knew that I wanted jquery (which I love).
 
-We recommend that you use this product with the latest version of jQuery.
+The plugin search over the web was bad. It showed Froala or Florala, but it is commercial  software, 
+the users are asked to pay for a license. Dropped it.
 
-[Demo page][]
+Then I re-started searching, at github...  
+and found, once more, [**JQuery-TE**](https://github.com/fattihkoca/jQuery-TE), by Fatih Koca :)
 
-[Download page][]
 
-[Documentation page][]
+It has been abandoned since 14 years ago. I mean, that's what I thought.  
 
-[Comments page][]
+Straight I decided to not only download it and tweak it,   
+but to re-upload what I've made of it.  
+Namely, to fork it and carry on with it separately.
 
-  [Demo page]: http://jqueryte.com/demos
-  [Download page]: http://jqueryte.com/download
-  [Documentation page]: http://jqueryte.com/documentation
-  [Comments page]: http://jqueryte.com/comments
+___
+	As I was writing this README, I realized that there's even a repository by Fatih, of 6 years ago.
+	see: [https://github.com/fattihkoca/jqueryte](https://github.com/fattihkoca/jqueryte)
+___ 
 
-If you have created a textarea and the value of class, such as “editor”
-used with the **$(“.editor”).jqte();** will be enough to write script.
+Since the 2022 repo has version 1.4, whereas the 14 years old repo had v1.3.2, I think 
+I'll use v1.4. 
 
-Of course you can also use a different attribute value.
+Why?  
+Not to save work on my part (or playing), but to respect the work that has been done yet.
 
-Usage
------
+___
 
-First include the latest version of jQuery. Next, download and include jquery-te-1.3.2.min.js and jquery-te-1.3.2.css (inside to head tags)
+I'm not sure whether what I'm making of this piece of working software will be good for anyone else, 
+but I'll share it.
 
-``` html
-<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
-<script type="text/javascript" src="jquery-te-1.3.2.min.js"></script>
-<link type="text/css" rel="stylesheet" href="jquery-te-1.3.2.css" charset="utf-8" />
-```
+___
 
-After than, create a textarea inside to body tags
+My concept is VERY SIMPLE. I want to edit text. Articles, namely.
 
-``` html
-<textarea></textarea>
-```
+* Headings / paragraph
+* font size
+* highlight part of lines, change font color, 
+* make links 
 
-Finally, run this plugin
-``` html
-<script>
-	$("textarea").jqte();
-</script>
-```
+Plus, do not excessively overwrite the html code :)
+With Trumbowgy, that was my divorcing cause, it changes divs to p-s...
+plus "minifies" the html code, which I don't like.
 
-That's it!
+It also had some glitches, which I thought I would fix, but...  
+their scripts are ... "encrypted"...  
+functions are named like anon-1 anon-5 anonymous-9 ... etc...   
+making it impossible for humans to read and edit it... :( 
+
+I want a dedicated button for h2 heading :) 
+
+Oh, and I want to do picture uploads separately...  
+I don't like text editors handling file uploads. 
+In my concept they articulate the HTML5 code. And that's it :) 
+
+Once it works, I'll share it.
+
+Peter
+
+___
+
+PS:
+TEE stands for Trans Europe Express. Á la Kraftwerk.
+
+see it on Youtube, I suggest the songs 4 and 5 first. "Metal on Metal" is the continuation of TEE.
+[a playlist of the full album](https://www.youtube.com/watch?v=Ms6kC-3yq0k&list=PLjIuADMrDKIb3Vkzy31broht0ZHsXfaFE)
