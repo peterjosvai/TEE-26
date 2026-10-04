@@ -28,7 +28,7 @@ but to re-upload what I've made of it.
 Namely, to fork it and carry on with it separately.
 
 ___
-As I was writing this README, I realized that there's even a repository by Fatih, of 6 years ago.
+As I was writing this README, I realized that there's a repository by Fatih even of 6 years ago.  
 see: [https://github.com/fattihkoca/jqueryte](https://github.com/fattihkoca/jqueryte)
 ___ 
 
