@@ -1,10 +1,10 @@
-﻿TEE-2026
+﻿TEE-26
 ==================
 
 This is a simple project, based on Fatih Koca's [JQery-TE](https://github.com/fattihkoca/jQuery-TE). 
 
 
-<!-- ![TEE-2026 logo](TEE-26.avif)-->
+
 <img src="https://github.com/peterjosvai/TEE-26/blob/master/TEE-26.avif" width="300" height="300" alt="TEE-26 main image">
 
 
