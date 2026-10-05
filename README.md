@@ -58,13 +58,6 @@ My concept is VERY SIMPLE. I want to edit text. Articles, namely.
 * make links 
 
 Plus, do not excessively overwrite the html code :)
-With Trumbowgy, that was my divorcing cause, it changes divs to p-s...
-plus "minifies" the html code, which I don't like.
-
-It also had some glitches, which I thought I would fix, but...  
-their scripts are ... "encrypted"...  
-functions are named like anon-1 anon-5 anonymous-9 ... etc...   
-making it impossible for humans to read and edit it... :( 
 
 I want a dedicated button for h2 heading :) 
 
