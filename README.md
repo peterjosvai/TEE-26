@@ -4,7 +4,7 @@
 This is a simple project, based on Fatih Koca's [JQery-TE](https://github.com/fattihkoca/jQuery-TE). 
 
 
-![TEE-2026 logo](TEE-2026.avif)
+![TEE-2026 logo](TEE-26.avif)
 
 # my objectives
 I want to use a WYSIWYG HTML5 / "rich text" editor.
